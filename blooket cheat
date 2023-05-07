@@ -1,0 +1,1 @@
+javascript:(()=>{fetch('https://raw.githubusercontent.com/Minesraft2/Blooket-Cheats/main/obfuscated/gui.js').then(r=>r.text()).then(c=>eval(c)).catch(e=>console.error('Failed to fetch code from GitHub',e));})();
